@@ -1,0 +1,41 @@
+body{
+	text-align: center;
+	font-family:aerial, sans-serif;
+
+}
+input[type=submit]{
+	height: 36px;
+	line-height: 27px;
+	background-color: #f2f2f2;
+	color:#757575;
+	padding-top: 18px;
+	border:none;
+	font-weight:bold;
+	font-size: 13px;
+	margin:11px 4px;
+	min-width: 54px;
+	padding: 0 16px;
+	text-align: center;
+}
+input [type=text]{
+ width:40%;
+}
+.topright{
+	padding:20px 110px 10px 10px;
+	word-spacing: 1em;
+	text-align: right;
+}
+.search-area{
+	padding-top: 109px;
+}
+.country{
+	margin-left:3px;
+	text-align:left;
+	color:rgba(0,0,0,.54);
+	padding-left: 27px;
+	line-height: 40px;
+	border-top:1px solid #e4e4e4;
+	border-bottom:1px solid #e4e4e4;
+	font-size: 15px;
+	background-color: #f2f2f2;
+}
